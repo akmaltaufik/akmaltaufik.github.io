@@ -11,6 +11,10 @@ labels:
   - Classification
 summary: "Developed prediction model using machine learning algorithm during my data science bootcamp"
 ---
+halo halo
+hap asdsakfs
+sdfadfsads
+asdfsfda
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
