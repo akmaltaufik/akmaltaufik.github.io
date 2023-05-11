@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/luke-chesser-JKUTrJ4vK00-unsplash.jpg
 title: "Customer churn Predictor"
 date: 2023
 published: true
