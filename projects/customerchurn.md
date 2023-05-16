@@ -13,6 +13,6 @@ summary: "Developed a Python-based customer churn predictor using machine learni
 ---
 
 
-<img src="img/luke-chesser-JKUTrJ4vK00-unsplash.jpg" class="img-fluid" >
+<img src="img/luke-chesser-JKUTrJ4vK00-unsplash.jpg" class="img-fluid">
 
-You can access more at the [Customer Churn Notebook](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can access more at the [Customer Churn Notebook](https://colab.research.google.com/drive/1IjaT5GL0sUMH_aC0CQkWEy6m8ydfEDvf?usp=sharing).
