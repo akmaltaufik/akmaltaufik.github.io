@@ -10,6 +10,7 @@ labels:
   - Supervised Machine Learning
   - Grid Search
 summary: "Conducted hyperparameter tuning to optimize performance of machine learning models for vehicle price prediction"
+---
 
 
 <img src="img/markus-winkler-IrRbSND5EUc-unsplash.jpg" class="img-fluid">
