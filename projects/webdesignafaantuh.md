@@ -11,7 +11,7 @@ labels:
   - REACT
   - Bootstrap
 summary: "Developed a responsive e-course website using React to create an engaging user interface and enhance the learning experience."
-
+---
 
 <img src="img/afaantuh.PNG" class="img-fluid">
 
