@@ -1,0 +1,18 @@
+---
+layout: project
+type: project
+image: img/luke-chesser-JKUTrJ4vK00-unsplash.jpg
+title: "Hyperparameter Tuning with Grid Search for Machine Learning Models"
+date: 2023
+published: true
+labels:
+  - Python
+  - Supervised Machine Learning
+  - Grid Search
+summary: "Provide a brief summary of vehicle dataset from kaggle, highlighting its objectives and the significance of hyperparameter tuning in optimizing model performance"
+---
+
+
+<img src="img/luke-chesser-JKUTrJ4vK00-unsplash.jpg" class="img-fluid">
+
+You can access more at the [Customer Churn Notebook](https://colab.research.google.com/drive/1tFKUgbPWK9HJSaMCKyYlKUMSbYK9ZCXm?usp=sharing).
