@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Taufik Akmal",
+    "label": "Data Enthusiast | Industrial Engineering Graduate",
+    "picture": "https://github.com/akmaltaufik.png",
+    "email": "taufikakmal.ta17@gmail.com",
+    "phone": "+6282274150933",
+    "website": "https://akmaltaufik.github.io",
+    "summary": "I'm a Bachelor of Industrial Engineering with GPA 3.63/4.00 and a graduate from Binar Academy Bootcamp Data Science.",
+    "location": { "address": "", "postalCode": "", "city": "Medan", "countryCode": "ID", "region": "North Sumatera" },
+    "profiles": [
+      { "network": "github", "username": "akmaltaufik", "url": "http://github.com/akmaltaufik" },
+      { "network": "linkedin", "username": "taufikakmal", "url": "http://linkedin.com/in/taufikakmal" }
+    ]
+  },
+  "interests": [{ "name": "Data Science" }, { "name": "Machine Learning" }, { "name": "Backend Programming" }, { "name": "Supply Chain Management" }],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["Python", "SQL", "Javascript", "React"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IPB University",
+      "area": "Agricultural Industrial Engineering",
+      "studyType": "B.E.",
+      "startDate": "2018-09-01",
+      "endDate": "2022-09-30",
+      "courses": []
+    },
+    {
+      "institution": "Binar Academy",
+      "area": "Data Science",
+      "studyType": "Certificate",
+      "startDate": "2023-03-06",
+      "endDate": "2023-04-14",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "PT Agro Boga Utama",
+      "position": "Maintenance Management Intern",
+      "website": "https://agrobogautama.co.id/id",
+      "startDate": "2021-12-21",
+      "endDate": "2022-01-20",
+      "summary": "",
+      "highlights": [
+        "Assisted to developing and implementing a highly effective preventive maintenance program for refrigeration units, resulting in a 20% reduction in downtime and repair costs.",
+        "Collaborated with the maintenance team to optimize maintenance schedules, resulting in streamlined daily operations and proper equipment maintenance without disruption.",
+        "Maintained accurate and up-to-date daily records of cold storage and fleet temperature and work orders to ensure the refrigeration systems and compliance with regulatory requirements."
+      ]
+    },
+    {
+      "company": "IPB University",
+      "position": "Laboratory Assistant",
+      "website": "https://tin.ipb.ac.id/",
+      "startDate": "2022-01-05",
+      "endDate": "2022-05-15",
+      "summary": "",
+      "highlights": [
+        "Trained a group of 15 students on a weekly basis in agricultural product analysis and experimentation. Result: all students get score A.",
+        "Collaborated with lecturer and 2 assistants to develop the best practice method for 100+ students weekly."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Students Executive Board of Faculty of Agricultural Technology",
+      "website": "https://bemfatetaipb.org/",
+      "position": "Staff",
+      "startDate": "2019-06-15",
+      "endDate": "2020-05-15",
+      "summary": "",
+      "highlights": [
+        "Successfully led social action, impacting 500+ students.",
+        "Organized Socio-Preneur National Web Seminar, collaborated with UNPAD Student Executive Board, impacting 500+ people with 85% satisfaction index.",
+        "Raised funds and donate to people affected by Covid-19 with a total donation IDR 14M+"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Finalist",
+      "date": "2022",
+      "awarder": "RISE 4.0",
+      "summary": "My team reached Final in Business Plan Competition RISE 4.0"
+    },
+    {
+      "title": "Best Staff",
+      "date": "2019-2020",
+      "awarder": "Students Executive Board of Faculty of Agricultural Technology",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
