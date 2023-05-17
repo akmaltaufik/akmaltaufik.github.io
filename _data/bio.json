@@ -13,16 +13,11 @@
       { "network": "linkedin", "username": "taufikakmal", "url": "http://linkedin.com/in/taufikakmal" }
     ]
   },
-  "interests": [
-    { "name": "Data Science" },
-    { "name": "Machine Learning" },
-    { "name": "Backend Programming" },
-    { "name": "Supply Chain Management" }
-  ],
+  "interests": [{ "name": "Data Science" }, { "name": "Machine Learning" }, { "name": "Backend Programming" }, { "name": "Supply Chain Management" }],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "SQL", "Javascript", "React"]
+      "keywords": ["Python", "SQL", "Javascript", "React"]
     }
   ],
   "education": [
@@ -32,75 +27,71 @@
       "studyType": "B.E.",
       "startDate": "2018-09-01",
       "endDate": "2022-09-30",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Binar Academy",
+      "area": "Data Science",
+      "studyType": "Certificate",
+      "startDate": "2023-03-06",
+      "endDate": "2023-04-14",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "PT Agro Boga Utama",
+      "position": "Maintenance Management Intern",
+      "website": "https://agrobogautama.co.id/id",
+      "startDate": "2021-12-21",
+      "endDate": "2022-01-20",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted to developing and implementing a highly effective preventive maintenance program for refrigeration units, resulting in a 20% reduction in downtime and repair costs.",
+        "Collaborated with the maintenance team to optimize maintenance schedules, resulting in streamlined daily operations and proper equipment maintenance without disruption.",
+        "Maintained accurate and up-to-date daily records of cold storage and fleet temperature and work orders to ensure the refrigeration systems and compliance with regulatory requirements."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "IPB University",
+      "position": "Laboratory Assistant",
+      "website": "https://tin.ipb.ac.id/",
+      "startDate": "2022-01-05",
+      "endDate": "2022-05-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Trained a group of 15 students on a weekly basis in agricultural product analysis and experimentation. Result: all students get score A.",
+        "Collaborated with lecturer and 2 assistants to develop the best practice method for 100+ students weekly."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Students Executive Board of Faculty of Agricultural Technology",
+      "website": "https://bemfatetaipb.org/",
+      "position": "Staff",
+      "startDate": "2019-06-15",
+      "endDate": "2020-05-15",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Successfully led social action, impacting 500+ students.",
+        "Organized Socio-Preneur National Web Seminar, collaborated with UNPAD Student Executive Board, impacting 500+ people with 85% satisfaction index.",
+        "Raised funds and donate to people affected by Covid-19 with a total donation IDR 14M+"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Finalist",
+      "date": "2022",
+      "awarder": "RISE 4.0",
+      "summary": "My team reached Final in Business Plan Competition RISE 4.0"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Best Staff",
+      "date": "2019-2020",
+      "awarder": "Students Executive Board of Faculty of Agricultural Technology",
+      "summary": ""
     }
   ],
   "references": [
